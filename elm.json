@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "aforemny/material-components-web-elm",
+    "name": "Dacit/material-components-web-elm",
     "summary": "Material Components for Elm",
     "license": "MIT",
-    "version": "9.1.0",
+    "version": "1.0.0",
     "exposed-modules": {
         "Material": [
             "Material.Button",
